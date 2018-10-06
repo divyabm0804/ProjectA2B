@@ -2,6 +2,6 @@
 public class DemoA {
 	
 public static void main(String[] args) {
-	System.out.println("Automation framework");
+	System.out.println("Automation framework is ready");
 }
 }
